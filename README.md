@@ -33,5 +33,5 @@ CODE: https://colab.research.google.com/drive/161-dOmloFs4CqVRI5MB-9r4blUs_owjX
 | | |
 | --- | --- |
 |Marine Mammal Vocalization|<img width=1800 alt="hello" src=spectrograms/mammals.png><br>Figure 9|
-|Airgun Noise|<img size=70% alt="hello" src=spectrograms/airgun.png><br>Figure 10|
+|Airgun Noise|<img size=70% alt="hello" src=spectrograms/airgun2.png><br>Figure 10|
 |Axial Seamount Earthquake after volcanic eruption|<img size=70% alt="hello" src=spectrograms/earthquake.png><br>Figure 11|
