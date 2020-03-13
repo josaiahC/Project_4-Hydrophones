@@ -41,4 +41,4 @@ Spectrograms use color maps to visualize the most intense frequency components o
 |Airgun Noise|<img alt="hello" src=spectrograms/airgun2.png><br>Figure 10|
 |Axial Seamount Earthquake after volcanic eruption|<img alt="hello" src=spectrograms/earthquake.png><br>Figure 11|
 
-In figure 9, the bandwidth of the captured marine mammal vocalization is 750-4500 Hertz; this is in agreement with the Wentz curve's 10- >100,000 Hz. 
+In figure 9, the bandwidth of the captured marine mammal vocalization is 750-4500 Hertz; this is in agreement with the Wentz curve's 10- >100,000 Hz. Figure 10 shows a series of three airgun shots, all within 0-1200 Hz. Airgun noises are created by bubbles, and the Wenz curve states that bubble noises are in the frequency range of 100 to approximately 20,000 Hz, which encapsulates the frequency range of this signal. The seismic activity shown in figure 11 has a max frequency of ~130 Hz, which is close to the Wenz curve's range of 0-100 Hz 
