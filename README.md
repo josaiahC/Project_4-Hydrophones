@@ -9,6 +9,11 @@ CODE: https://colab.research.google.com/drive/161-dOmloFs4CqVRI5MB-9r4blUs_owjX
 ## Introduction <br>
 
 
+Power spectral density is a measurement of how power from a signal or ambient noise is distributed amongst a range of frequencies. In part 1, Power Spectral Density versus Frequency graphs were constructed to examine the effects of the following weather conditions on underwater noise: windy and rainy, rainy but not windy, windy but not windy, and neither windy nor rainy. 
+
+Spectrograms use color maps to visualize the most intense frequency components of a noise over time. In part 2, spectrograms were used to compare bandwidth, intensity, and duration for marine mammal vocalization, airgun noise, and seismic activity due to a volcanic eruption.
+
+
 ## <div align=center> Part 1: Wind and Rain Noise </div>
 
 ### Oregon Shelf Surface Mooring
@@ -35,3 +40,5 @@ CODE: https://colab.research.google.com/drive/161-dOmloFs4CqVRI5MB-9r4blUs_owjX
 |Marine Mammal Vocalization|<img width=1900 alt="hello" src=spectrograms/mammals.png><br>Figure 9|
 |Airgun Noise|<img alt="hello" src=spectrograms/airgun2.png><br>Figure 10|
 |Axial Seamount Earthquake after volcanic eruption|<img alt="hello" src=spectrograms/earthquake.png><br>Figure 11|
+
+In figure 9, the bandwidth of the captured marine mammal vocalization is 750-4500 Hertz; this is in agreement with the Wentz curve's 10- >100,000 Hz. 
