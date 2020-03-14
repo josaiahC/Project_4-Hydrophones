@@ -35,20 +35,20 @@ Spectrograms use color maps to visualize the most intense frequency components o
 
 ## Spectral Level Comparison
 At the Oregon Shelf Surface Mooring site, the  sound intensities for each weather condition are:
-  1.  Windy and Rainy: Peak 74 dB, average 45.5 dB (Figure 1)
-  2.  Rainy, but not windy: Peak 82 dB, average 55 dB (Figure 2)
-  3.  Windy, but not rainy: Peak 71 dB, 52 dB (Figure 3)
-  4.  Not windy and not rainy: Peak 60 dB, average 47 dB (Figure 4)
+  1.  Windy and Rainy: Peak 74 dB/Hz, average 45.5 dB/Hz (Figure 1)
+  2.  Rainy, but not windy: Peak 82 dB/Hz, average 55 dB/Hz (Figure 2)
+  3.  Windy, but not rainy: Peak 71 dB/Hz, 52 dB/Hz (Figure 3)
+  4.  Not windy and not rainy: Peak 60 dB/Hz, average 47 dB/Hz (Figure 4)
   
 At the Oregon Offshore Surface Mooring site, the peak sound intensities for each weather condition are:
-  1.  Windy and Rainy: Peak 92 dB, average 42 dB (Figure 5)
-  2.  Rainy, but not windy: Peak 72 dB, average 38 dB (Figure 6)
-  3.  Windy, but not rainy: Peak 72 dB, average 44 dB (Figure 7)
-  4.  Not windy and not rainy: Peak 70 dB, average 50 dB (Figure 8)
+  1.  Windy and Rainy: Peak 92 dB/Hz, average 42 dB/Hz (Figure 5)
+  2.  Rainy, but not windy: Peak 72 dB/Hz, average 38 dB/Hz (Figure 6)
+  3.  Windy, but not rainy: Peak 72 dB/Hz, average 44 dB/Hz (Figure 7)
+  4.  Not windy and not rainy: Peak 70 dB/Hz, average 50 dB/Hz (Figure 8)
   
 At both locations, peak PSD levels were lowest in the absence of wind and rain. The average PSD levels, shown in each plot by a red line, still remained comparable to that of the other three weather conditions. Notably, in figure 4 there is a peak PSD of 82 dB/Hz at ~13,800 Hz, but it is unclear whether this is due to the weather or not. At the Oregon Shelf Surface Mooring site, rainy but not windy conditions clearly had the greatest effect on underwater noise, with peak and average levels exceeding all other conditions. At the Oregon Offshore Surface Mooring site, the highest peak was achieved during both windy and rainy conditions, withg the highest average level occuring during not windy and not rainy conditions. Thus, at this site both windy and rainy conditions had the greatest effect on underwater noise. 
 
-In all cases, wind and rain increased PSD levels at very low frequencies, with decreasing influence on PSD levels at higher ones. Windy & rainy and rainy but not windy at the Oregon Offshore Surface Mooring site (figures 5-6) 
+In all cases, wind and rain increased PSD levels at very low frequencies, with decreasing influence on PSD levels at higher ones. The Oregon Shelf Surface Mooring site recorded peak PSD levels 10 dB/Hz higher than equivalent conditions at the Oregon Offshore Surface Mooring site, while the peak PSD level at the offshore site during windy and rainy conditions was 18 dB/Hz higher than the shelf site. Windy but not rainy PSD levels were nearly equal at both sites, and the offshore surface mooring site recorded peak PSD levels 10 dB/Hz higher than the shelf surface mooring site.
 
 ## <div align=center> Part 2: Airgun, Marine Mammals, Earthquake/Volcano Noise </div>
 
