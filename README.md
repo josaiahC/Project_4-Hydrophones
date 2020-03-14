@@ -9,9 +9,9 @@ CODE: https://colab.research.google.com/drive/161-dOmloFs4CqVRI5MB-9r4blUs_owjX
 ## Introduction <br>
 
 
-Power spectral density is a measurement of how power from a signal or ambient noise is distributed amongst a range of frequencies. In part 1, Power Spectral Density versus Frequency graphs were constructed to examine the effects of the following weather conditions on underwater noise: windy and rainy, rainy but not windy, windy but not windy, and neither windy nor rainy. 
+Power spectral density is a measurement of how power from a signal or ambient noise is distributed amongst a range of frequencies. In part 1, Power Spectral Density versus Frequency graphs were constructed to examine the effects of the following weather conditions on underwater noise: windy and rainy, rainy but not windy, windy but not windy, and neither windy nor rainy. Data was also contrasted between the Oregon Shelf Surface Mooring site and the Oregon Offshore Surface Mooring site to determine if wind and rain had different effects on underwater noise depending on location.
 
-Spectrograms use color maps to visualize the most intense frequency components of a noise over time. In part 2, spectrograms were used to compare bandwidth, intensity, and duration for marine mammal vocalization, airgun noise, and seismic activity due to a volcanic eruption.
+Spectrograms use color maps to visualize the most intense frequency components of a noise over time. In part 2, spectrograms were used to compare bandwidth, intensity, and duration for marine mammal vocalization, airgun noise, and seismic activity due to a volcanic eruption. Bandwidths for each signal were also compared to estimated ranges given by the Wenz curve, the standard reference for frequency ranges of many man-made and naturally occuring noises.
 
 
 ## <div align=center> Part 1: Wind and Rain Noise </div>
